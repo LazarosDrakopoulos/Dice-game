@@ -1,2 +1,2 @@
 # Dice-project
-A simple dice game web application built using HTML, CSS, and JavaScript. Players roll two dice, and the application determines the winner based on the higher dice roll
+The 'Dicee' project is a web-based dice game crafted during a Udemy course, employing fundamental web technologies such as HTML, CSS, and JavaScript. The game interface consists of two dice, each representing a player. Upon page refresh, the dice display random numbers, simulating rolls. The application dynamically updates to declare the winner based on the higher dice roll.
